@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////
 //Config
 //チェックする放送一覧
-array = new Array("mean_diggity","forcezoo","milk_ruku","faitan0703","tomato_tmt","du_zhong_tea");
+array = new Array("channelName","channelName");
 
 //trueでスクリプトロード時に放送の有無をチェックします
 checkEventOnLoad = true;
