@@ -11,14 +11,7 @@ displayFriendName = true;
 displaySystemMessage = false;
 displayFriendMessage = true;
 displayOtherMessage = false;
-friendName = new Array("ディギティ","トマリ","ずーぅ","ルクリィ","NoiZ","raura","ナナイシノ","yowkow","小林輪","Caprim","我那覇HBKくん",
-"漆黒のウルカ","コンチ","さくら春","宇宙猿","突撃専門です","りんごグミ",
-"tomuvia","エルロンド","POCHOMK6","ローレライ","052nom3","Rows",
-"うかわ","なつまも","シャンプー・ナウ","verdena","ヒデ・キ","ルーリア",
-"柚子軍曹","じおん軍の斥候","きょねこ","生たまご","ぴこぐらむ","るみかなん",
-"神崎沙織","BETA","サワミネ","ルゥナ","小3不登校","miso","めいどさん",
-"にゃご","YESプリキュア","おじん","reomon","メンソレータム","robi3",
-"freeks","妨害キャラ");
+friendName = new Array("キャラ名","キャラ名");
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 //Command Usage
